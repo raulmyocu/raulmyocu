@@ -1,4 +1,4 @@
-### Hi there, I'm Raúl 👋
+### Hi there (Quiúbole!), I'm Raúl 👋
 
 I am a computer science student at Universidad de Sonora, currently on my fourth year.
 My main interests are Artificial Intelligence, Theory of Computation and also fun math stuff c:
